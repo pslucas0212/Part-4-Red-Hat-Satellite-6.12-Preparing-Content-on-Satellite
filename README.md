@@ -1,14 +1,14 @@
 # Part 4: Red Hat Satellite 6.12 - Content on Satellite
 
-[Tutorial Menu]()  
+[Tutorial Menu](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)
 
 In the section we will configure Satellite to manage content for our RHEL environment.  We will enable RHEL repositories on Satellite and define a RHEL lifecycle.  
 
 ### Adding Software Repositories to Satellite. 
 
-We will be only using RHEL 8 content for this tutorial, but we will enable both RHEL 7 and RHEL 8 repositories to Satellite for practice.
+We will be using and enalbing RHEL 8 and 9 content for this tutorial.
 
-Login to the Satellite console and on the side menu navigate to Content -> Red Hat Repositories.  Make sure that your organization and location is set to the Operations Department and moline.  Remember Organization and Location are located in the upper left area of the Satellite console
+Login to the Satellite console and on the side menu navigate to Content -> Red Hat Repositories. 
 
 ![Content -> Red Hat Repositories](/images/sat15.png)
 
